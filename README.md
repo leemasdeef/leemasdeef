@@ -85,7 +85,7 @@
       <br/>PostgreSQL
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/mongoDB.svg" alt="MongoDB" width="40" height="40"/>
+      <img src="icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
       <br/>MongoDB
     </td>
   </tr>
