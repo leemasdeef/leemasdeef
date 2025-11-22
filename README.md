@@ -73,7 +73,7 @@
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/expressJS.svg" alt="Expressjs" width="40" height="40"/>
+      <img src="icons/expressJS.png" alt="Expressjs" width="40" height="40"/>
       <br/>ExpressJS
     </td>
     <td align="center" height="70" width="70">
