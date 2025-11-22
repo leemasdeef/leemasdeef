@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/next.svg" alt="React" width="40" height="40"/>
+      <img src="icons/next.svg" alt="Next" width="40" height="40"/>
       <br/>Next.js
     </td>
     <td align="center" height="70" width="70">
