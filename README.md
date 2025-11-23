@@ -4,8 +4,7 @@
 <p align="center">
   I'm an aspiring Software Engineer<br>
   I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
-  I believe that the ideal UX leans towards simplicity and usability over customisation.<br>
-  Recently, I have been playing with designs that abstract choice away from the UX.<br> 
+  I prefer simple yet visually-striking designs.<br> 
  <br>
  <br>
   📫 How to reach me:
