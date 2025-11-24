@@ -5,6 +5,7 @@
   I'm an aspiring Software Engineer<br>
   I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
   I prefer simple yet visually-striking designs.<br> 
+  Learning Haskell.
  <br>
  <br>
   📫 How to reach me:
@@ -90,5 +91,44 @@
   </tr>
 </table>
 
-<h3 align='center'>⚗️ Tools</h3>
-
+<table>
+  <tr>
+    <!-- <td width='50%'></td> -->
+     <td width='50%' colspan=2>
+      <h2 align='center'>Flippy</h2>
+      <div align='center'>  
+        <a href='https://github.com/leemasdeef/flippy'>
+          <img src='images/flippy.png' alt='Flippy'/>
+        </a>
+        <br>
+        <br>
+        <p><strong>React, TypeScript, NextJS, Drizzle, Betterauth </strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>Memory Card Game</h2>
+      <div align='center'>  
+        <a href='https://github.com/leemasdeef/memory-card-game'>
+          <img src='images/memory-card-game.png' alt='Memory Card Game'/>
+        </a>
+        <br>
+        <br>
+        <p><strong>React, Javascript, Vite </strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Weather App</h2>
+      <div align='center'>  
+        <a href='https://github.com/leemasdeef/TOP-weather-app'>
+          <img src='images/weather-app.png' alt='Weather App'/>
+        </a>
+        <br>
+        <br>
+        <p><strong>HTML, CSS, Javascript</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    
