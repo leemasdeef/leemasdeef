@@ -2,10 +2,9 @@
   title="Profile">I'm Samil</a>👋</h2>
 <br>
 <p align="center">
-  I'm an aspiring Software Engineer<br>
+  Front-end developer.<br>
   I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
   I prefer simple yet visually-striking designs.<br> 
-  Learning Haskell.
  <br>
  <br>
   📫 How to reach me:
