@@ -97,7 +97,7 @@
       <h2 align='center'>Flippy</h2>
       <div align='center'>  
         <a href='https://github.com/leemasdeef/flippy'>
-          <img src='images/flippy.png' alt='Flippy'/>
+          <img src='images/flippy-landing.png' alt='Flippy'/>
         </a>
         <br>
         <br>
