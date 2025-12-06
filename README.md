@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   Full-stack developer.<br>
-  I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
+  I like building things that break. <br>
   I prefer simple yet visually-striking designs.<br> 
  <br>
  <br>
