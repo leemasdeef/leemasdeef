@@ -3,8 +3,7 @@
 <br>
 <p align="center">
   Full-stack developer.<br>
-  I like building things that break. <br>
-  I prefer simple yet visually-striking designs.<br> 
+  If you don't break it, you can't fix it. <br>
  <br>
  <br>
   📫 How to reach me:
