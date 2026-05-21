@@ -2,8 +2,7 @@
   title="Profile">I'm Samil</a>👋</h2>
 <br>
 <p align="center">
-  Full-stack developer.<br>
-  If you don't break it, you can't fix it. <br>
+  Full-stack developer, QA.<br>
  <br>
  <br>
   📫 How to reach me:
